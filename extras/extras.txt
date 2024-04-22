@@ -1,0 +1,5 @@
+Parciales: 
+- Programación: 23/04.
+- Introducción: 24/04.
+- Fundamentos: 02/05.
+- Matemática: 08/05.
